@@ -1,7 +1,7 @@
 
 # description
-fix file in config folder to your case
-script open up your image and let you seletc ROI (Region of Interest), detected object pops up 
+- fix file in config folder to your case 
+- script open up your image and let you seletc ROI (Region of Interest), detected object pops up 
 # env
 ```
 pip install fastapi uvicorn pydantic python-multipart
